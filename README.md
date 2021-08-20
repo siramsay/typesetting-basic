@@ -1,6 +1,6 @@
 # Type Setting and Responsive Basic
 
--- Made from Bare Bones Boiler Plate 
+> Made from Bare Bones Boiler Plate 
 
 ## HTML
 ### Elements Included
