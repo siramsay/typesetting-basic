@@ -1,6 +1,6 @@
 # Type Setting and Responsive Basic
 
-> [Made from Bare Bones Boiler Plate](https://github.com/siramsay/bare-bones-boiler-plate)
+> [Made from Bare Bones Boiler Plate](https://github.com/siramsay/bare-bones-boiler-plate)\ with the below changes.
 
 ## HTML
 ### Elements Included
