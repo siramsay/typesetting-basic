@@ -1,6 +1,6 @@
 # Type Setting and Responsive Basic
 
-> Made from Bare Bones Boiler Plate 
+> [Made from Bare Bones Boiler Plate](https://github.com/siramsay/bare-bones-boiler-plate)
 
 ## HTML
 ### Elements Included
