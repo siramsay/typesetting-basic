@@ -39,6 +39,7 @@ body {
   font-weight: 400;
   line-height: 1.5; /* WCAG recommendation @see GB#35 */
   color: #333;
+  overflow: hidden;
 }
 
 p {margin-bottom: 1.15rem;}
@@ -71,14 +72,52 @@ small, .text_small {font-size: 0.833em;}
 /* Body color set to custom property. Change colour in the the :root rule */
 
 body {
-  color: var(--body-color);
+  /*color: var(--body-color);*/
 }
 
-/* Centre everything in the main element */
+/* Responsive flex @see html-css-js/media-query-min-width */
 main {
   width: 100vw;
   min-height: 100vh;
-  /*display: flex;
-  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  /*min-height: 100vh;
+   width: 100vw;
+   min-height: 100vh;*/
+  /*flex-wrap: wrap;*/
+  /*justify-content: center;
   align-items: center;*/
+}
+
+main > * {
+  padding: 5px;
+  margin: 10px;
+  /*flex: 1 1 100%;*/
+}
+
+
+@media screen and (min-width: 768px) {
+
+  main {
+    flex-direction: row;
+    /*flex-wrap: nowrap;*/
+  }
+  main > article {
+    flex-basis: 65%;
+  }
+  main > aside {
+    flex-basis: 35%;
+  }
+
+}
+
+@media screen and (min-width: 1200px) {
+  body {
+    font-size: 1.125rem;
+  }
 }
