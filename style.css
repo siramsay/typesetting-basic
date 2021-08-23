@@ -75,6 +75,11 @@ body {
   /*color: var(--body-color);*/
 }
 
+header,
+main {
+  max-width: 1240px;
+}
+
 /* Responsive flex @see html-css-js/media-query-min-width */
 main {
   width: 100vw;
@@ -94,6 +99,7 @@ main {
   align-items: center;*/
 }
 
+header > *,
 main > * {
   padding: 5px;
   margin: 10px;
