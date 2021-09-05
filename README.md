@@ -3,7 +3,9 @@
 > Made from [Bare Bones Boiler Plate](https://github.com/siramsay/bare-bones-boiler-plate)  with the below changes.
 
 
-## Type Scale 1:1/2
+## Type Scale Minor Third
+16px
+HD 1.25rem
 
 
 > The below documentation is from Bare Bone Boiler Plate
