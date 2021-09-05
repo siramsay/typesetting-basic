@@ -1,7 +1,13 @@
 # Type Setting and Responsive Basic
 
-> Made from [Bare Bones Boiler Plate](https://github.com/siramsay/bare-bones-boiler-plate) \ with the below changes.
+> Made from [Bare Bones Boiler Plate](https://github.com/siramsay/bare-bones-boiler-plate)  with the below changes.
 
+
+##
+
+
+> The below documentation is form Bare Bone Boiler Plate
+> todo: update and/or remove.
 ## HTML
 ### Elements Included
 1. I have included a header and a main element. 
