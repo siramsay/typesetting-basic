@@ -3,10 +3,10 @@
 > Made from [Bare Bones Boiler Plate](https://github.com/siramsay/bare-bones-boiler-plate)  with the below changes.
 
 
-##
+## Type Scale 1:1/2
 
 
-> The below documentation is form Bare Bone Boiler Plate
+> The below documentation is from Bare Bone Boiler Plate
 > todo: update and/or remove.
 ## HTML
 ### Elements Included
